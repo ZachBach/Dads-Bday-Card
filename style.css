@@ -109,6 +109,14 @@ iframe {
     height: 500px;
 }
 
+h2 {
+    text-align: center;
+}
+
+audio {
+   width: 100%;
+}
+
 
 
 
